@@ -1,0 +1,9 @@
+# Compiled programs
+main
+
+# Debug information
+*.dSYM/
+
+# macOS system files
+.DS_Store
+
