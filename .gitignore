@@ -7,3 +7,6 @@ main
 # macOS system files
 .DS_Store
 
+# Compiled C++ executables
+Projects/smart_calculator
+
