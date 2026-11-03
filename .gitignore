@@ -10,3 +10,6 @@ main
 # Compiled C++ executables
 Projects/smart_calculator
 
+# Compiled executables
+*.exe
+Projects/number_guessing_game
